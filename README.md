@@ -1,5 +1,5 @@
 # RingMenu
-This AddOn for Classic WoW (v. 1.13) adds an additional circular action bar that normally remains hidden but can be summoned by a click of a (mouse) button.
+This AddOn for Classic TBC WoW (v. 2.5.1) adds an additional circular action bar that normally remains hidden but can be summoned by a click of a (mouse) button.
 
 All credit for this addon goes to original owner https://github.com/jsb/RingMenu. This is a fan made branch for fun.
 

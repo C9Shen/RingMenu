@@ -1,6 +1,8 @@
 # RingMenu
 This AddOn for Classic WoW (v. 1.13) adds an additional circular action bar that normally remains hidden but can be summoned by a click of a (mouse) button.
 
+All credit for this addon goes to original owner https://github.com/jsb/RingMenu. This is a fan made branch for fun.
+
 ![RingMenu](http://i.imgur.com/DmDWVaA.png)
 
 The RingMenu is hence ideal for storing away action buttons that are frequently used yet need not be present on the screen at all times (e.g. trade skills, tracking spells, hearthstone, etc.).
